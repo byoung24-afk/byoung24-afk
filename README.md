@@ -5,6 +5,11 @@ I’m interested in using data to better understand problems and develop practic
 
 My goal is to combine my background in business with technical and analytical skills to explore the intersection of data, AI, and entrepreneurship. This GitHub documents that journey and the projects I build along the way. 
 
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/bryce-young-a861543a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaEi%2FTJ3mTPyRJ4csrUrafA%3D%3D)
+
+- Email: byoung24@nd.edu
+
 ## Enjoy!
 <!--
 **byoung24-afk/byoung24-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
